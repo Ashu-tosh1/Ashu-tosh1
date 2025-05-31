@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+## HI 
+# Ashutosh Patro here,
 🔭 Currently working on: Full-stack development projects using modern web technologies.<br>🌱 Learning: Advanced cloud technologies (AWS, Docker) and system design.<br><br>💻 Technical Skills:<br>Languages: JavaScript, Java, Python<br>Frontend: React.js, HTML, CSS<br>Backend: Node.js, Express.js<br>Tools & Platforms: AWS EC2, Docker, Git, MongoDB<br><br>🏆 Achievements: Proud contributor to Hacktoberfest 2024!
 
 
